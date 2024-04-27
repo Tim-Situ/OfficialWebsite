@@ -8,3 +8,4 @@ imgAlt: 'Image post 4'
 ---
 
 Full typography example at [this page](../sixth-post/).
+test markdown post
